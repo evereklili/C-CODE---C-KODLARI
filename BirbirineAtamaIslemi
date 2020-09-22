@@ -12,3 +12,11 @@ int main()
     
     return 0;
 }
+
+
+/*
+Burada işlemci değil Ram da yer ayırıyoruz. Nedeni ise z değişkeni Ram da yer işgal eder. Sonuçta işlemci ram kullanılmaktadır. 
+Bu programı sadece işlemciye yüklenebilinir. İŞte bu nokta da cache bellek önemli olmaktadır. 
+
+
+**/
